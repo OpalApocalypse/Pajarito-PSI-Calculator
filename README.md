@@ -1,4 +1,4 @@
-# PajaritoPSICalculator
+# Pajarito PSI Calculator
 
 Calculator to determine the PSI for pouring draft beers at Pajarito Brewpub & Grill. PSI determined using the formula provided by kegworks.com:
 
